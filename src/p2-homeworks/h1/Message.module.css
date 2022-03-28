@@ -1,0 +1,47 @@
+.message {
+    display: flex;
+    align-items: flex-end;
+    margin: 10px;
+    background-color: darkgreen;
+}
+
+.ava {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.sms {
+    background-color: chartreuse;
+    margin: 10px 0;
+    border-radius: 5px 5px 5px 0;
+}
+
+.ugol{
+    margin: 10px 0;
+    width: 0;
+    height: 0;
+    border-bottom: 15px solid chartreuse;
+    border-left: 15px solid transparent;
+    border-radius: 0 0 0 3px;
+
+
+}
+
+.name {
+    color: plum;
+    margin: 0 5px;
+    border-radius: 3px;
+}
+
+.text {
+    height: 25px;
+    width: 150px;
+    margin: 0 5px;
+
+}
+
+.time {
+    margin: 0 10px 0 160px;
+
+}
